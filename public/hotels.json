@@ -1,0 +1,62 @@
+[
+    {
+        "id": "634f93989124fb1bd9c83b4e",
+        "isActive": false,
+        "balance": "$234.60",
+        "bed": 2,
+        "person": 1,
+        "picture": "http://placehold.it/32x32",
+        "name": "Lynda Saunders",
+        "company": "BOVIS"
+    },
+    {
+        "id": "634f9398542f20c6b9f75bf7",
+        "isActive": true,
+        "balance": "$202.03",
+        "bed": 1,
+        "person": 3,
+        "picture": "http://placehold.it/32x32",
+        "name": "Doreen Boone",
+        "company": "IDEALIS"
+    },
+    {
+        "id": "634f9398e3f530d039b38322",
+        "isActive": true,
+        "balance": "$377.43",
+        "bed": 1,
+        "person": 4,
+        "picture": "http://placehold.it/32x32",
+        "name": "Krystal Hansen",
+        "company": "OLYMPIX"
+    },
+    {
+        "id": "634f93982d4cdc607a6ee112",
+        "isActive": false,
+        "balance": "$312.74",
+        "bed": 2,
+        "person": 5,
+        "picture": "http://placehold.it/32x32",
+        "name": "Chang Benson",
+        "company": "NORALI"
+    },
+    {
+        "id": "634f939831651fcff18f9dc0",
+        "isActive": true,
+        "balance": "$208.31",
+        "bed": 1,
+        "person": 5,
+        "picture": "http://placehold.it/32x32",
+        "name": "Castaneda Reid",
+        "company": "GRACKER"
+    },
+    {
+        "id": "634f9398233fb4fe8b4ab987",
+        "isActive": true,
+        "balance": "$141.78",
+        "bed": 3,
+        "person": 5,
+        "picture": "http://placehold.it/32x32",
+        "name": "Gill Oliver",
+        "company": "ASIMILINE"
+    }
+]

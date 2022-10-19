@@ -12,7 +12,7 @@ const UserContext = ({ children }) => {
     const [bookingHotel, setBookingHotel] = useState();
 
     useEffect(() => {
-        fetch('http://localhost:5000/hotels')
+        fetch('hotels.json')
             .then(res => res.json())
             .then(data => setHotels(data))
     }, [])
